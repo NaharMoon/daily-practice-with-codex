@@ -1,0 +1,9 @@
+{
+  "name": "daily-practice-with-codex",
+  "version": "1.0.0",
+  "description": "Small daily MERN and JavaScript practice tasks with Codex.",
+  "private": true,
+  "scripts": {
+    "test": "node javascript/day-001-array-chunk/chunkArray.test.js"
+  }
+}
