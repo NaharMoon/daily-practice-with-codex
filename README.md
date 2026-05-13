@@ -24,3 +24,4 @@ Small daily coding practice repo for building consistency as a junior MERN stack
 | --- | --- | --- |
 | 001 | JavaScript array chunk utility | Done |
 | 002 | JavaScript title case utility | Done |
+| 003 | JavaScript create slug utility | Done |
