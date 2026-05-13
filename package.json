@@ -4,6 +4,6 @@
   "description": "Small daily MERN and JavaScript practice tasks with Codex.",
   "private": true,
   "scripts": {
-    "test": "node javascript/day-001-array-chunk/chunkArray.test.js"
+    "test": "node javascript/run-tests.js"
   }
 }
