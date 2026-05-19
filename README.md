@@ -27,3 +27,4 @@ Small daily coding practice repo for building consistency as a junior MERN stack
 | 003 | JavaScript create slug utility | Done |
 | 004 | JavaScript calculate cart total utility | Done |
 | 005 | JavaScript pagination metadata utility | Done |
+| 006 | JavaScript public user profile utility | Done |
