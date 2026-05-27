@@ -5,3 +5,4 @@ require("./day-004-calculate-cart-total/calculateCartTotal.test");
 require("./day-005-build-pagination-meta/buildPaginationMeta.test");
 require("./day-006-pick-public-user-profile/pickPublicUserProfile.test");
 require("./day-007-build-user-search-filter/buildUserSearchFilter.test");
+require("./day-008-build-profile-update-payload/buildProfileUpdatePayload.test");
