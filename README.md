@@ -30,3 +30,5 @@ Small daily coding practice repo for building consistency as a junior MERN stack
 | 006 | JavaScript public user profile utility | Done |
 | 007 | JavaScript user search filter utility | Done |
 | 008 | JavaScript profile update payload utility | Done |
+| 009 | JavaScript product sort options utility | Done |
+
