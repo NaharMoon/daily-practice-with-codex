@@ -8,3 +8,4 @@ require("./day-007-build-user-search-filter/buildUserSearchFilter.test");
 require("./day-008-build-profile-update-payload/buildProfileUpdatePayload.test");
 require("./day-009-build-product-sort-options/buildProductSortOptions.test");
 require("./day-010-build-price-range-filter/buildPriceRangeFilter.test");
+require("./day-011-build-category-filter/buildCategoryFilter.test");
