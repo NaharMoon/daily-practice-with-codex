@@ -34,4 +34,4 @@ Small daily coding practice repo for building consistency as a junior MERN stack
 | 010 | JavaScript price range filter utility | Done |
 | 011 | JavaScript category filter utility | Done |
 | 012 | JavaScript stock status filter utility | Done |
-
+| 013 | JavaScript user lookup filter utility | Done |

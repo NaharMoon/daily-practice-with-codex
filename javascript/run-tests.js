@@ -10,4 +10,4 @@ require("./day-009-build-product-sort-options/buildProductSortOptions.test");
 require("./day-010-build-price-range-filter/buildPriceRangeFilter.test");
 require("./day-011-build-category-filter/buildCategoryFilter.test");
 require("./day-012-build-stock-status-filter/buildStockStatusFilter.test");
-
+require("./day-013-build-user-lookup-filter/buildUserLookupFilter.test");
