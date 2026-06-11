@@ -12,3 +12,5 @@ require("./day-011-build-category-filter/buildCategoryFilter.test");
 require("./day-012-build-stock-status-filter/buildStockStatusFilter.test");
 require("./day-013-build-user-lookup-filter/buildUserLookupFilter.test");
 require("./day-014-build-pagination-query/buildPaginationQuery.test");
+require("./day-015-build-active-status-filter/buildActiveStatusFilter.test");
+
